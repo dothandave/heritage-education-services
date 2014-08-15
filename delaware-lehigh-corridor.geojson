@@ -1,0 +1,741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.674722,
+          41.418611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/ter.htm",
+        "name": "Terence V. Powderly House",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//powderlyhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.67132,
+          41.40733
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/dic.htm",
+        "name": "Steamtown National Historic Site",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//steamtown_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6638938933611,
+          41.4056152850389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/iro.htm",
+        "name": "Lackawanna Iron and Coal Company Furnace",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//furnace_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662111,
+          41.406019
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/wrr.htm",
+        "name": "Delaware, Lackawanna, and Western Railroad Station",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//railroadstation_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.665278,
+          41.4075
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/lhd.htm",
+        "name": "Lackawanna Avenue Commercial Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//lackawannahd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.662778,
+          41.408056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/crt.htm",
+        "name": "Lackawanna County Courthouse and John Mitchell Monument",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//courthouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.660556,
+          41.410833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/mas.htm",
+        "name": "Masonic Temple and Scottish Rite Cathedral",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//masonictemple_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.87304,
+          41.28528
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/for.htm",
+        "name": "Forty Fort Meetinghouse",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//fortyfort_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.885833,
+          41.246944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/riv.htm",
+        "name": "River Street Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//riverhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.885278,
+          41.248611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/mar.htm",
+        "name": "Market Street Bridge",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//marketbridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.881944,
+          41.244722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/com.htm",
+        "name": "Comerford Theater",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//comerford_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8778778463602,
+          41.242263391614
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/ste.htm",
+        "name": "Stegmaier Brewery",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//stegmaier_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.910278,
+          41.190556
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/ash.htm",
+        "name": "Ashley Planes",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//ashleyplanes_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.628333,
+          41.129722
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/sto.htm",
+        "name": "Stoddartsville Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//stoddartsville_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.862778,
+          40.993333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/eck.htm",
+        "name": "Eckley Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//eckleyhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.974722,
+          40.953889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/ban.htm",
+        "name": "Markle Banking & Trust Company Building",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//markle_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.743056,
+          40.862222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/mau.htm",
+        "name": "Old Mauch Chunk Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//oldmauch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.738611,
+          40.862778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/cen.htm",
+        "name": "Central Railroad of New Jersey Station",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//njrailroad_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.737778,
+          40.863889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/asa.htm",
+        "name": "Asa Packer Mansion",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//packermansion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.746944,
+          40.863889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/car.htm",
+        "name": "Carbon County Jail",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//carbonjail_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.603611,
+          40.769167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/leh.htm",
+        "name": "Lehigh Canal",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//lehighcanal_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.613333,
+          40.751667
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/fir.htm",
+        "name": "Fireman's Drinking Fountain",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//firemanfountain_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.495,
+          40.676111
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/cop.htm",
+        "name": "Coplay Cement Company Kilns",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//coplay_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.466389,
+          40.647778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/tay.htm",
+        "name": "George Taylor House",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//taylorhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.382222,
+          40.618333
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/bet.htm",
+        "name": "Central Bethlehem Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//bethlehemhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.383333,
+          40.619167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/wat.htm",
+        "name": "Old Waterworks",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//waterworks_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.381667,
+          40.621944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/sun.htm",
+        "name": "Moravian Sun Inn",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//moravian_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.381111,
+          40.618611
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/gem.htm",
+        "name": "Gemeinhaus-Lewis David De Schweintz Residence",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//lewis_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.393611,
+          40.604444
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/sil.htm",
+        "name": "Lehigh Valley Silk Mills",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//silkmill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.349444,
+          40.561944
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/ehr.htm",
+        "name": "Ehrhart's Mill Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//millhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5958710610867,
+          40.5076492577791
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/loc.htm",
+        "name": "Lock Ridge Furnace Complex",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//lockridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.248889,
+          40.653889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/cha.htm",
+        "name": "Chain Bridge",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//chainbridge_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.211944,
+          40.690833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/eas.htm",
+        "name": "Easton Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//eastonhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.224167,
+          40.576389
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/dur.htm",
+        "name": "Durham Mill and Furnace",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//durhammill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.141389,
+          40.475278
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/rid.htm",
+        "name": "Ridge Valley Rural Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//ridgevalleyhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.219722,
+          40.36
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/gre.htm",
+        "name": "Green Hills Farm (Pearl S. Buck House)",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//buckhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.122902,
+          40.321158
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/fon.htm",
+        "name": "Fonthill",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//fonthill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.123611,
+          40.323056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/mor.htm",
+        "name": "Moravian Pottery & Tile Works",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//moravian_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.127222,
+          40.307778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/mer.htm",
+        "name": "Mercer Museum",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//mercer_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0075,
+          40.373889
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/hon.htm",
+        "name": "Honey Hollow Watershed",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//honeyhollow_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.878889,
+          40.320833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/was.htm",
+        "name": "Washington Crossing State Park",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//washington_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8275,
+          40.232222
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/sla.htm",
+        "name": "Slate Hill Cemetery",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//slatehill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.768333,
+          40.132778
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/pen.htm",
+        "name": "Pennsbury Manor",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//pennsbury_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.852222,
+          40.104167
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/gru.htm",
+        "name": "Grundy Mill Complex",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//grundymill_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.852778,
+          40.098056
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/bri.htm",
+        "name": "Bristol Historic District",
+        "description": "Pennsylvania",
+        "description_url": "http://www.nps.gov/nr/travel/delaware/bingmap_images//bristolhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.854167,
+          40.095833
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/nr/travel/delaware/dor.htm",
+        "name": "Dorrance Mansion",
+        "description": "Pennsylvania",
+        "description_url": "www.nps.gov/nr/travel/delaware/bingmap_images//dorrance_mapimage.jpg"
+      }
+    }
+  ]
+}
