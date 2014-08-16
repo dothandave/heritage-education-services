@@ -11,10 +11,10 @@
         ]
       },
       "properties": {
-        "name_url": "Dona_Ana_Village_Historic_District.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Dona_Ana_Village_Historic_District.html",
         "name": "Dona Ana Village Historic District",
         "description": "Dona Ana County, New Mexico",
-        "description_url": "googlemap_images/donaana.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/donaana.jpg"
       }
     },
     {
@@ -27,10 +27,10 @@
         ]
       },
       "properties": {
-        "name_url": "El_Cerro_de_Tome.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/El_Cerro_de_Tome.html",
         "name": "El Cerro de Tome",
         "description": "Vallencia County, New Mexico",
-        "description_url": "googlemap_images/tome_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/tome_map.jpg"
       }
     },
     {
@@ -43,10 +43,10 @@
         ]
       },
       "properties": {
-        "name_url": "Fort_Craig.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Fort_Craig.html",
         "name": "Fort Craig",
         "description": "Socorro County, New Mexico",
-        "description_url": "googlemap_images/fortcraig_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/fortcraig_map.jpg"
       }
     },
     {
@@ -59,10 +59,10 @@
         ]
       },
       "properties": {
-        "name_url": "Fort_Marcy_Ruins.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Fort_Marcy_Ruins.html",
         "name": "Fort Marcy Ruins",
         "description": "Santa Fe, New Mexico",
-        "description_url": "googlemap_images/fortmarcy_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/fortmarcy_map.jpg"
       }
     },
     {
@@ -75,10 +75,10 @@
         ]
       },
       "properties": {
-        "name_url": "Fort_Selden.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Fort_Selden.html",
         "name": "Fort Selden",
         "description": "Radium Springs, New Mexico",
-        "description_url": "googlemap_images/fortselden_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/fortselden_map.jpg"
       }
     },
     {
@@ -91,10 +91,10 @@
         ]
       },
       "properties": {
-        "name_url": "Kuaua_Ruins.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Kuaua_Ruins.html",
         "name": "Kuaua Ruins",
         "description": "Bernalillo, New Mexico",
-        "description_url": "googlemap_images/kuaua_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/kuaua_map.jpg"
       }
     },
     {
@@ -107,10 +107,10 @@
         ]
       },
       "properties": {
-        "name_url": "La_Bajada_Mesa.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/La_Bajada_Mesa.html",
         "name": "La Bajada Mesa",
         "description": "Santa Fe County, New Mexico",
-        "description_url": "googlemap_images/labajada_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/labajada_map.jpg"
       }
     },
     {
@@ -123,10 +123,10 @@
         ]
       },
       "properties": {
-        "name_url": "Mesilla_Plaza_and_Historic_District.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Mesilla_Plaza_and_Historic_District.html",
         "name": "Mesilla Plaza and Historic District",
         "description": "Mesilla, New Mexico",
-        "description_url": "googlemap_images/mesilla_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/mesilla_map.jpg"
       }
     },
     {
@@ -139,10 +139,10 @@
         ]
       },
       "properties": {
-        "name_url": "Mesquite_Historic_District.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Mesquite_Historic_District.html",
         "name": "Mesquite Historic District",
         "description": "Las Cruces, New Mexico",
-        "description_url": "googlemap_images/mesquite_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/mesquite_map.jpg"
       }
     },
     {
@@ -155,10 +155,10 @@
         ]
       },
       "properties": {
-        "name_url": "Point_of_Rocks.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Point_of_Rocks.html",
         "name": "Point of Rocks",
         "description": "Jornada del Muerto, Sierra County, New Mexico",
-        "description_url": "googlemap_images/point_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/point_map.jpg"
       }
     },
     {
@@ -171,10 +171,10 @@
         ]
       },
       "properties": {
-        "name_url": "Santa_Fe_Plaza.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Santa_Fe_Plaza.html",
         "name": "Santa Fe Plaza",
         "description": "Santa Fe, New Mexico",
-        "description_url": "googlemap_images/plaza_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/plaza_map.jpg"
       }
     },
     {
@@ -187,10 +187,10 @@
         ]
       },
       "properties": {
-        "name_url": "Palace_of_the_Governors.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Palace_of_the_Governors.html",
         "name": "Palace of the Governors",
         "description": "Santa Fe, New Mexico",
-        "description_url": "googlemap_images/palace_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/palace_map.jpg"
       }
     },
     {
@@ -203,10 +203,10 @@
         ]
       },
       "properties": {
-        "name_url": "Yost_Draw.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Yost_Draw.html",
         "name": "Yost Draw",
         "description": "Sierra County, New Mexico",
-        "description_url": "googlemap_images/yost_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/yost_map.jpg"
       }
     },
     {
@@ -219,10 +219,10 @@
         ]
       },
       "properties": {
-        "name_url": "Presidio_Chapel_of_San_Elizario.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Presidio_Chapel_of_San_Elizario.html",
         "name": "Presidio Chapel of San Elizario",
         "description": "San Elizario, Texas",
-        "description_url": "googlemap_images/elizario_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/elizario_map.jpg"
       }
     },
     {
@@ -235,10 +235,10 @@
         ]
       },
       "properties": {
-        "name_url": "San_Elizario_Historic_District.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/San_Elizario_Historic_District.html",
         "name": "San Elizario Historic District",
         "description": "San Elizario, Texas",
-        "description_url": "googlemap_images/sanelizario_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/sanelizario_map.jpg"
       }
     },
     {
@@ -251,10 +251,10 @@
         ]
       },
       "properties": {
-        "name_url": "Socorro_Mission.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Socorro_Mission.html",
         "name": "Socorro Mission",
         "description": "El Paso, Texas",
-        "description_url": "googlemap_images/socorro_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/socorro_map.jpg"
       }
     },
     {
@@ -54673,10 +54673,10 @@
         ]
       },
       "properties": {
-        "name_url": "Socorro_Mission.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Socorro_Mission.html",
         "name": "El Camino Real de Tierra Adentro National Historic Trail",
         "description": "Take a journey on El Camino Real de Tierra Adentro National Historic Trail to savor 300 years of heritage and culture in the Southwest. This Spanish colonial 'royal road' in New Mexico and Texas originally extended to Mexico City, Mexico",
-        "description_url": "http://www.nps.gov/imr/images/ELCA_DYKJornada6.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/http://www.nps.gov/imr/images/ELCA_DYKJornada6.jpg"
       }
     },
     {
@@ -54689,10 +54689,10 @@
         ]
       },
       "properties": {
-        "name_url": "Ysleta_Mission.html",
+        "name_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/Ysleta_Mission.html",
         "name": "Ysleta Mission",
         "description": "Ysleta del Sur Pueblo, El Paso County, Texas",
-        "description_url": "googlemap_images/ysleta_map.jpg"
+        "description_url": "http://www.nps.gov/nr/travel/El_Camino_Real_de_Tierra_Adentro/googlemap_images/ysleta_map.jpg"
       }
     }
   ]
