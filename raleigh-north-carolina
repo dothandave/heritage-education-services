@@ -1,0 +1,757 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.65193,
+          35.77437
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/boy.htm",
+        "name": "Boylan Heights",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/boylan_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.650973,
+          35.776654
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/mon.htm",
+        "name": "Montfort Hall",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/montfort_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.639391,
+          35.777585
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/bri.htm",
+        "name": "Briggs Hardware Building",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/briggs_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.636147,
+          35.785449
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/cpe.htm",
+        "name": "Capehart House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/capehart_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6375,
+          35.78
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/chd.htm",
+        "name": "Capitol Area Historic District",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/capitolhd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.637943,
+          35.781075
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/chr.htm",
+        "name": "Christ Episcopal Church",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/cechurch_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.635786,
+          35.78072
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/hay.htm",
+        "name": "Haywood Hall",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/haywood_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.639076,
+          35.780468
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/cap.htm",
+        "name": "North Carolina State Capitol",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/capitol_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.641012,
+          35.779587
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/wtr.htm",
+        "name": "Raleigh Water Tower",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/watertower_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.637068,
+          35.780622
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/ban.htm",
+        "name": "State Bank of North Carolina",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/statebank_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645734,
+          35.782142
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/pwr.htm",
+        "name": "Carolina Power and Light Company Car Barn and Automobile Garage",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/ncpower_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.753288,
+          35.858693
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/cra.htm",
+        "name": "Crabtree Creek Recreational Demonstration Area",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/crabtree_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.644823,
+          35.780739
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/dod.htm",
+        "name": "Dodd-Hinsdale House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/dodd_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638186,
+          35.773715
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/pop.htm",
+        "name": "Dr. M.T. Pope House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/pope_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638512,
+          35.772135
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/est.htm",
+        "name": "Estey Hall",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/estey_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.660472,
+          35.824118
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/fad.htm",
+        "name": "Fadum House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/fadum_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.639804,
+          35.776723
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/fed.htm",
+        "name": "Federal Building",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/federal_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638614,
+          35.772096
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/fiv.htm",
+        "name": "Five Points Neighborhood, MPS",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/fivepoints_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.673494,
+          35.789516
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/gms.htm",
+        "name": "G. Milton Small and Associates Office Building",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/small_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.654247,
+          35.782129
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/gro.htm",
+        "name": "Grosvenor Garden Apartments",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/grosevenor_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.635807,
+          35.784246
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/haw.htm",
+        "name": "Hawkins-Hartness House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/hawkins_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63661,
+          35.784295
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/hec.htm",
+        "name": "Heck-Andrews House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/andrews_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.660207,
+          35.824319
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/kam.htm",
+        "name": "Henry L. Kamphoefner House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/kamphoefner_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.704938,
+          35.792314
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/dor.htm",
+        "name": "J.S. Dorton Arena",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/dorton_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.650838,
+          35.778941
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/lan.htm",
+        "name": "Joel Lane House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/lane_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646958,
+          35.799281
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/dan.htm",
+        "name": "Josephus Daniels House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/daniels_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.63911,
+          35.770311
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/leo.htm",
+        "name": "Leonard Hall",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/leonard_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.639158,
+          35.778683
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/mas.htm",
+        "name": "Masonic Temple Building",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/masonic_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.673672,
+          35.815571
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/mat.htm",
+        "name": "Matsumoto House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/matsumoto_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638614,
+          35.772096
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/moo.htm",
+        "name": "Moore Square Historic District",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/mooresquare_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.632774,
+          35.792254
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/mor.htm",
+        "name": "Mordecai House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/mordecai_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.636368,
+          35.782493
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/exe.htm",
+        "name": "North Carolina Executive Mansion",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/mansion_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.709646,
+          35.794807
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/fai.htm",
+        "name": "North Carolina State Fair Commercial and Educational Buildings",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/statefair_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.569734,
+          35.770019
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/oak.htm",
+        "name": "Oak View",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/oakview_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.638614,
+          35.772096
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/owd.htm",
+        "name": "Oakwood Historic District",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/oakwood_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.634456,
+          35.7854
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/tuc.htm",
+        "name": "Tucker House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/tucker_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.637452,
+          35.789286
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/pea.htm",
+        "name": "Peace College Main Building",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/peace_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.664856,
+          35.7809
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/pul.htm",
+        "name": "Pullen Park Carousel",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/pullen_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646067,
+          35.782786
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/ele.htm",
+        "name": "Raleigh Electric Company Power House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/electric_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.646067,
+          35.782786
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/ebb.htm",
+        "name": "Raleigh Water Works and E.B. Bain Water Treatment Plant",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/waterworks_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.677058,
+          35.805574
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/rit.htm",
+        "name": "Ritcher House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/richer_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.66509,
+          35.816739
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/sma.htm",
+        "name": "Small House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/smallhouse_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.619153,
+          35.788287
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/sta.htm",
+        "name": "St. Augustine's College Campus",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/augustine_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.652925,
+          35.781631
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/stm.htm",
+        "name": "St. Mary's College",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/stmary_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.645059,
+          35.78154
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/stp.htm",
+        "name": "St. Paul AME Church",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/stpaul_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.650345,
+          35.782253
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/car.htm",
+        "name": "Tucker Carriage House",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/carriage_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.686105,
+          35.718405
+        ]
+      },
+      "properties": {
+        "name_url": "http://www.nps.gov/history/nr/travel/raleigh/yat.htm",
+        "name": "Yates Mill",
+        "description": "North Carolina",
+        "description_url": "http://www.nps.gov/history/nr/travel/raleigh/bingmap_images/yates_mapimage.jpg"
+      }
+    }
+  ]
+}
